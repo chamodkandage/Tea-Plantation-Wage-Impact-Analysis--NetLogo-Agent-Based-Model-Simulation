@@ -121,5 +121,5 @@
 
 <hr>
 
-<p><em>Last Updated: March 2025</em><br>
+<p><em>Last Updated: November 2025</em><br>
 <em>NetLogo Model Version: 1.0</em></p>
